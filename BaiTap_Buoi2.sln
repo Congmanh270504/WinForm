@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NangCao", "Buoi2\NangCao\NangCao.csproj", "{E4B6C80B-7EA6-4000-8C04-438B7862358F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVN", "Buoi2\BTVN\BTVN.csproj", "{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi2", "Buoi2", "{CC994265-9C6D-4F59-82FD-78174F25BA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B6C80B-7EA6-4000-8C04-438B7862358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B6C80B-7EA6-4000-8C04-438B7862358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B6C80B-7EA6-4000-8C04-438B7862358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B6C80B-7EA6-4000-8C04-438B7862358F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4B6C80B-7EA6-4000-8C04-438B7862358F} = {CC994265-9C6D-4F59-82FD-78174F25BA90}
+		{8F043FB6-D889-4CA7-B1EA-E1D4EA948BBE} = {CC994265-9C6D-4F59-82FD-78174F25BA90}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE527F9-332B-430D-B10C-3FB4821A32EA}
+	EndGlobalSection
+EndGlobal
